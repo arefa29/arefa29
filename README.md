@@ -9,7 +9,7 @@
 ## 
 #### Check out some of my projects
 Course Management Website
-> <img src="https://i.postimg.cc/GpZ2T7ZJ/Uni-Track-SS.png)](https://postimg.cc/NykYW4G5" width="500">
+> <img src="https://i.postimg.cc/kgYtCxyV/Screenshot-home-dashboard.png" width="500">
 Food donation and electronic waste reduction website
 > <img src="https://i.postimg.cc/Kvjqq0Ky/home-page-landing-final.png" width="500"> 
 > <img src="https://i.postimg.cc/5y6B3ks7/Food-page-final.png" width="500">
