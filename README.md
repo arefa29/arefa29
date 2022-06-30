@@ -1,7 +1,7 @@
 ##  Hi! I’m Arefa, a computer science undergrad
 - :computer: I’m interested in Data Science and Machine Learning
 - :zap: I’m looking to collaborate on projects that have a meaningful social or environmental impact 
-- [![LinkedIn][3.2]][3] Connect with me on [LinkedIn]([www.linkedin.com/in/arefa-muzaffar](https://www.linkedin.com/in/arefa-muzaffar/))
+- [![LinkedIn][3.2]][3] Connect with me on [LinkedIn](https://www.linkedin.com/in/arefa-muzaffar/)
 ## 
 #### Check out some of my projects :point_down:
 Course Management Website
