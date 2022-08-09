@@ -1,5 +1,5 @@
 ##  Hi! I’m Arefa, a computer science undergrad
-- :computer: I’m interested in Data Science and Machine Learning
+- :computer: I’m interested in Machine Learning, Deep Learning and their applications
 - :zap: I’m looking to collaborate on projects that have a meaningful social or environmental impact 
 - [![LinkedIn][3.2]][3] Connect with me on [LinkedIn](https://www.linkedin.com/in/arefa-muzaffar/)
 ## 
