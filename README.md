@@ -2,8 +2,8 @@
 - :computer: I’m interested in Machine Learning, Deep Learning and their applications
 - :zap: I’m looking to collaborate on projects that have a meaningful social or environmental impact 
 - [![LinkedIn][3.2]][3] Connect with me on [LinkedIn](https://www.linkedin.com/in/arefa-muzaffar/)
-## 
-#### Check out some of my projects :point_down:
+##
+<!-- #### Check out some of my projects :point_down:
 Course Management Website
 > <img src="https://i.postimg.cc/kgYtCxyV/Screenshot-home-dashboard.png" width="500">
 Food donation and electronic waste reduction website
